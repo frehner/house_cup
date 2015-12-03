@@ -10,6 +10,7 @@ Firebase Format
 
 Your Firebase data should be formatted in the following way:
 
+```
 root
 	houseId
 		name:"",
@@ -21,5 +22,6 @@ root
 	house2Id
 		name:""
 		...
+```
 
 And so on.
